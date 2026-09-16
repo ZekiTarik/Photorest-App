@@ -71,7 +71,32 @@ Backend API
 
 ## 📱 Ekran Görüntüleri
 
-_(Buraya uygulamanın Feed, Pin Detay, Profil ve Sohbet ekranlarından görseller eklenebilir.)_
+<!-- En dikkat çekici 3 görsel vitrinde -->
+<div align="center">
+  <img src="assets/feed1.jpeg" width="220"/>
+  <img src="assets/pindetail1.jpeg" width="220"/>
+  <img src="assets/profile.jpeg" width="220"/>
+</div>
+
+<br>
+
+<!-- Kalan görseller açılır-kapanır menüde -->
+<details>
+  <summary><b>👉 Uygulamanın Diğer Ekranlarını İncelemek İçin Tıklayın</b></summary>
+  <br>
+  <div align="center">
+    <img src="assets/login.jpeg" width="220"/>
+    <img src="assets/feed2.jpeg" width="220"/>
+    <img src="assets/search.jpeg" width="220"/>
+    <img src="assets/addpin.jpeg" width="220"/>
+    <img src="assets/chat.jpeg" width="220"/>
+    <img src="assets/notifications.jpeg" width="220"/>
+    <img src="assets/boards.jpeg" width="220"/>
+    <img src="assets/panoDetail.jpeg" width="220"/>
+    <img src="assets/pindetail2.jpeg" width="220"/>
+    <img src="assets/profile2.jpeg" width="220"/>
+  </div>
+</details>
 
 ## 🚀 Kurulum
 
